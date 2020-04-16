@@ -1,7 +1,7 @@
 # OpenJudgeNoi-codes
 use to storage AC code in OpenJudgeNoi. **join untill have mine invented.**
 
-Website: noi.openjudge.cn
+Website: https://noi.openjudge.cn
 
 if you find that mine code isn't the best, please create a issue to tell me.
 
