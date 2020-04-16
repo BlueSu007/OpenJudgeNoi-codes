@@ -7,4 +7,4 @@ if you find that mine code isn't the best, please create a issue to tell me.
 
 welcome join~
 
-(OpenJudge user: BlueSu; e-mail: surunhe@sina.cn; contact email: surunhe@sian.cn)
+(OpenJudge user: BlueSu; id: 1045903; e-mail: surunhe@sina.cn; contact email: surunhe@sian.cn)
