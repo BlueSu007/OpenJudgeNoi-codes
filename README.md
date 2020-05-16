@@ -9,4 +9,4 @@ welcome join~
 
 (OpenJudge user: BlueSu; id: 1045903; e-mail: surunhe@sina.cn; contact email: surunhe@sian.cn)
 
-update for 8 times. You need minus 8 from commits to get real file amount.
+update for 9 times. You need minus 10 from commits to get real file amount.
